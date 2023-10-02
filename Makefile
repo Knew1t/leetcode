@@ -1,4 +1,4 @@
-SRC=longest_substring_without_repeating_characters.cc
+SRC=longest_palindromic_substring.cc
 all :
 	g++ -std=c++17 $(SRC) && ./a.out && rm -rf a.out*
 
