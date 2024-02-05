@@ -1,0 +1,5 @@
+watch('_l1');
+watch('_l2');
+watch('tmp');
+watch('newNode');
+watch('resultList');
